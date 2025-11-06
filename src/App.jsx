@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 const Welcome = () => {
     return (
         <h1 style={{ color: 'blue', textAlign: 'center', cursor: 'pointer' }} onMouseOver={e => e.target.style.color = 'green'} onMouseOut={e => e.target.style.color = 'blue'}>
-            Witaj w React!
+            ChuJ!!!!!!
         </h1>
     );
 };
